@@ -1,0 +1,12 @@
+.menu{
+    background-color: #FFEC01 !important; 
+}
+
+.menu__item{
+    color: #333333 !important;
+    text-transform: uppercase !important;
+}
+
+.menu__item--hover:hover{
+    color: #FFFFFF !important;
+}

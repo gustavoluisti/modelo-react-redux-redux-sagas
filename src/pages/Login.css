@@ -1,0 +1,41 @@
+.background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgba(0,22,66,1), rgba(0,22,66, 0.7));
+}
+
+.panel-login{
+    /* position div */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* margin div */
+    margin: 0 auto;
+    border: 0.1rem #ccc;
+    border-radius: 3px;
+
+    /* width X height */
+    min-height: 100px;
+    height: auto;
+    width: 40%;
+
+    /* backgroung */
+    background: #ffffff;
+
+    /* elementos dentro da div */
+    padding: 10px;
+}
+
+.panel-login-header{
+    padding: 8px;
+    text-align: center;
+    background: rgba(0,22,66, 0.9);
+    color: white;
+    font-size: 15px;
+    margin-bottom: 8%;
+}
