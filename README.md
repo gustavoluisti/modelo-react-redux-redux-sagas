@@ -3,7 +3,7 @@
 ## Instalação do projeto
 
 Clone o repositório:
-### `git clone https://git-codecommit.sa-east-1.amazonaws.com/v1/repos/quickstart_front`
+
 
 
 Instale as dependências do projeto:
